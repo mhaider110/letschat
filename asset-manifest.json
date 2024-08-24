@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/letschat/static/css/main.429502b4.css",
+    "main.js": "/letschat/static/js/main.1d897fa7.js",
+    "static/media/logo-bg.png": "/letschat/static/media/logo-bg.fedfaaf7b18672b3416d.png",
+    "index.html": "/letschat/index.html",
+    "main.429502b4.css.map": "/letschat/static/css/main.429502b4.css.map",
+    "main.1d897fa7.js.map": "/letschat/static/js/main.1d897fa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.429502b4.css",
+    "static/js/main.1d897fa7.js"
+  ]
+}
